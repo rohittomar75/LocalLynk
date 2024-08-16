@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER": "zoro",
+        "DB_PASSWORD": "Zorozoro7",
+        "LOCATIONIQ_API_KEY": "pk.f2e2ea669f826f58359c0de30ece1e5e",
+        "JWT_KEY": "SECRET_KEY"
+    }
+}
